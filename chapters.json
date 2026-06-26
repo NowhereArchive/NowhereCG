@@ -51,5 +51,16 @@
             { "name": "CoquelicInterrogation", "displayName": "Coquelic" },
             { "name": "000Interrogation", "displayName": "000" },
             { "name": "MooreInterrogation", "displayName": "Moore" }
+        ],
+        "Eternal Nightmare": [
+            { "name": "IllusoryMoonRising", "displayName": "Illusory Moon Rising" },
+            { "name": "HuntingShade", "displayName": "Hunting Shade" },
+            { "name": "HeartOfEternity", "displayName": "Heart Of Eternity" },
+            { "name": "EmbersOfLongNight", "displayName": "Embers Of Long Night" },
+            { "name": "EcholessDive", "displayName": "EcholessDive" }
+        ],
+        "Collabs":[
+            { "name": "Jo2", "displayName": "JoJo 1" },
+            { "name": "Jojo", "displayName": "JoJo 2" }
         ]
 }
