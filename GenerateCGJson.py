@@ -4,7 +4,8 @@ from pathlib import Path
 
 def generate_cg_json(source_path, folder_name, base_url=None):
     if base_url is None:
-        base_url = f"https://raw.githubusercontent.com/NowhereArchive/NowhereCG/main/CGs/{folder_name}"
+        # base_url = f"https://raw.githubusercontent.com/NowhereArchive/NowhereCG/main/CGs/{folder_name}"
+        base_url = f"https://github.com/NowhereArchive/NowhereCG/releases/download/{folder_name}"
     
     files = sorted(Path(source_path).iterdir())
     json_array = []
