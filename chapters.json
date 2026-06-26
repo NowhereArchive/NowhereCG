@@ -61,7 +61,7 @@
             { "name": "EcholessDive", "displayName": "EcholessDive" }
         ],
         "Collabs":[
-            { "name": "Jo2", "displayName": "JoJo 1" },
-            { "name": "Jojo", "displayName": "JoJo 2" }
+            { "name": "Jo2", "displayName": "JoJo" },
+            { "name": "Jojo", "displayName": "JoJo" }
         ]
 }
